@@ -1,0 +1,21 @@
+#header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    margin-top: 20px;
+}
+.table_head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    background: rgb(142, 237, 142);
+}
+.table_head2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    background: rgb(217, 141, 217);
+}
